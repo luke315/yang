@@ -1,0 +1,12 @@
+*.agdai
+.idea
+.idea/
+/.idea/
+/**/.idea
+logs
+test
+scripts
+/**/img_live/*
+/**/home/*
+__pycache__
+__pycache__/
