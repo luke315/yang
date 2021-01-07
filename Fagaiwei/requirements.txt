@@ -24,7 +24,7 @@ jdcal==1.4.1
 joblib==0.16.0
 jsonpath==0.82
 kiwisolver==1.2.0
-lxml==4.5.1
+lxml==4.6.2
 matplotlib==3.2.2
 mplfinance==0.12.6a3
 mysqlclient @ file:///C:/PycharmProjects/DataPickTools/Fagaiwei/mysqlclient-1.4.6-cp36-cp36m-win_amd64.whl
