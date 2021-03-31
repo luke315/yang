@@ -19,7 +19,7 @@ importlib-metadata==1.6.0
 incremental==17.5.0
 jdcal==1.4.1
 kombu==4.6.8
-lxml==4.5.0
+lxml==4.6.3
 nnlog==1.0.5
 numpy==1.18.4
 openpyxl==3.0.4
