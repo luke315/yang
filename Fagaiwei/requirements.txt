@@ -68,7 +68,7 @@ tabulate==0.8.7
 threadpoolctl==2.1.0
 tqdm==4.46.1
 Twisted==20.3.0
-urllib3==1.25.9
+urllib3==1.26.5
 w3lib==1.22.0
 webencodings==0.5.1
 websocket-client==0.57.0
